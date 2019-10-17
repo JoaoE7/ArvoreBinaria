@@ -75,7 +75,7 @@ public class Arvore {
             }
         }
         
-        return "NÃ£o existe aluno com essa matricula.";
+        return "Não existe aluno com essa matricula.";
     }
     
     public void percorrerPreOrdem() {

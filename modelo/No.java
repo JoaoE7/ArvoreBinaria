@@ -1,8 +1,8 @@
 package modelo;
 
 public class No {
-	
-	private Aluno aluno;
+    
+    private Aluno aluno;
 
     public No(Aluno aluno) {
         this.aluno = aluno;
